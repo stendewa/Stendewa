@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/StephenWaweru">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hey%20there,%20I'm%20Stephen%20👋;Data%20Scientist%20%7C%20Machine%20Learning%20Enthusiast;🌱%20Currently%20learning%20Deep%20Learning%20and%20DevOps;🤝%20Open%20to%20collaborations%20and%20mentorships;🎯%202025%20Goals:%20Deploy%20AI%20at%20Scale;🧠%20Forever%20Curious;&font=Fira%20Code&center=true&width=750&height=45&color=FFFFFF&vCenter=true&size=22&pause=1000" alt="Typing SVG">
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
