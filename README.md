@@ -1,5 +1,3 @@
----
-
 ### 🚀 About Me
 
 I'm a passionate problem-solver and data storyteller who’s obsessed with extracting meaningful insights from data.
