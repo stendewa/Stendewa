@@ -26,7 +26,7 @@ I'm a passionate problem-solver and data storyteller who’s obsessed with extra
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-waweru-b3133724/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-https://medium.com/@wawerunderitu8/stephen-nderitu-waweru-90e77644a654-brightgreen?style=for-the-badge)](https://medium.com/@wawerunderitu8/stephen-nderitu-waweru-90e77644a654)
+[![Portfolio](https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge)](https://medium.com/@wawerunderitu8/stephen-nderitu-waweru-90e77644a654)
 [![Email](https://img.shields.io/badge/Email-wawerunderitu8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wawerunderitu8@gmail.com)
 
 ---
