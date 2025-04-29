@@ -4,8 +4,12 @@ I'm a passionate problem-solver and data storyteller who’s obsessed with extra
 
 - 💡 Building intelligent supply chain systems with ML
 - 🔭 Currently exploring: Reinforcement Learning, Network Optimization, Flask + Docker
-- 🛠️ Tools: Python, Scikit-Learn, Flask, ACO, Pandas, NumPy
-- 🌱 2025 Goals:
+### 🛠️ Tools
+- Python: Scikit-Learn, Flask, Tensorflow, Pandas, NumPy, Surprise,
+- Visualisation: Tableau, Power BI
+- MLDevOps: Rust, Docker, Kubernetes
+- LLMs and Model Training: HuggingFace, FastAI and Qwen           
+### 🌱 2025 Goals:
   - Build and deploy an end-to-end AI web application with RAG AI, MongoDB and CI/CD pipeline with Docker
   - Contribute to Open Source ML/AI projects such the Zindi Soil Nutriet Challenge
   - Launch a blog or newsletter via Medium
