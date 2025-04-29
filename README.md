@@ -7,7 +7,7 @@ I'm a passionate problem-solver and data storyteller who’s obsessed with extra
 ### 🛠️ Tools
 - Python: Scikit-Learn, Flask, Tensorflow, Pandas, NumPy, Surprise,
 - Visualisation: Tableau, Power BI
-- MLDevOps: Rust, Docker, Kubernetes
+- MLDevOps: Rust, Docker, Kubernetes, SQL
 - LLMs and Model Training: HuggingFace, FastAI and Qwen           
 ### 🌱 2025 Goals:
   - Build and deploy an end-to-end AI web application with RAG AI, MongoDB and CI/CD pipeline with Docker
