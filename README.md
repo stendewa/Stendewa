@@ -24,6 +24,7 @@ I'm a passionate problem-solver and data storyteller who’s obsessed with extra
 ![NumPy](https://img.shields.io/badge/Numpy-Advanced-013243?style=flat&logo=NumPy&logoColor=white&color=0D1117)
 ![Flask](https://img.shields.io/badge/Flask-Intermediate-000000?style=flat&logo=Flask&logoColor=white&color=0D1117)
 ![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat&logo=Docker&logoColor=white&color=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-2496ED?style=flat&logo=MySQL&logoColor=white&color=0D1117)
 
 ---
 
